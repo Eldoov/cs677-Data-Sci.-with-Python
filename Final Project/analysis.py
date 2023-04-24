@@ -143,7 +143,6 @@ def Part5():
     plt.show()
 
 
-Part5()
 
 
 
