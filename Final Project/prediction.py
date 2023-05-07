@@ -1,3 +1,6 @@
+#CS555 Final Project
+#Zuowen Tang
+
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler

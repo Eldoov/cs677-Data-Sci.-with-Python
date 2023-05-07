@@ -1,0 +1,37 @@
+Airline
+Airport From / To 
+Day Of Week
+Time
+Length
+
+
+American Airlines, Delta Airlines, Alaska Airlines, United Airlines, etc..
+BOS - Boston Logan International Airport, IAD - Dulles International Airport, JFK - John F. Kennedy International Airport, etc..
+Monday to Sunday
+Duration of the flight.
+Types of the aircraft.
+
+Logistic Reg.
+66.02%  61.28%  64.24%
+k-NN (k = 1)
+63.98%  54.29%  59.63%
+k-NN (k = 3)
+65.25%  56.98%  61.73%
+k-NN (k = 5)
+65.58%  57.99%  62.43%
+Naive Bayesian
+63.98%  54.29%  59.63%
+LDA
+65.25%  56.98%  61.73%
+QDA
+65.58%  57.99%  62.43%
+Decision Tree
+66.91%  45.19%  46.95%
+Random Forest
+65.94%  60.55%  63.87%
+Linear SVM
+63.07%           65.26%             59.32%
+Gaussian SVM
+64.3%            65.29%           62.27%
+Poly SVM
+64.85%            64.91%            64.68%
